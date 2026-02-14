@@ -1,0 +1,7 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+.python-version   # se usar pyenv
